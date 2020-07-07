@@ -1,6 +1,6 @@
 ### Usage example:
 - Below an example is provided showing how one can use this small http server wrapper.
-- Keep in mind that this DOES NOT implement any RFC and is made purely as a showcase demonstrating the implementation of a http server using the Golang net library.
+- Keep in mind that this DOES NOT implement any RFC and is made purely as a showcase demonstrating the implementation of a http LIKE server using the Golang net library.
 ```go
 package main
 
